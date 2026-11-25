@@ -107,7 +107,7 @@ const ME: Rene = Rene {
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ninso112&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ninso112&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&rank_icon=github" alt="stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninso112&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="top languages" />
 </p>
 
