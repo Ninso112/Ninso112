@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Get+me+out+of+here!;Writing+fast+tools+in+Rust+%F0%9F%A6%80;Explaining+WHY+your+Linux+box+misbehaves;Ricing+Hyprland+since+forever;btw+I+use+Arch" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Get+me+out+of+here!;Writing+fast+tools+in+Rust+%F0%9F%A6%80;Explaining+WHY+your+Linux+box+misbehaves;Scrolling+through+windows+on+niri;btw+I+use+Arch" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ struct Rene {
 
 const ME: Rene = Rene {
     location: "Germany 🇩🇪",
-    os: "Arch Linux + Hyprland (Omarchy)",
+    os: "Arch Linux + niri",
     editor: "Neovim",
     languages: ["Rust", "Python", "TypeScript", "Shell"],
     currently: "Hacking on ytm-rs, a native YouTube Music client",
@@ -40,7 +40,7 @@ const ME: Rene = Rene {
 ```
 
 - 🦀 I love building **small, fast, native tools**, mostly in Rust, often for the terminal.
-- 🐧 Daily driver: **Arch Linux** with a heavily riced **Hyprland** setup.
+- 🐧 Daily driver: **Arch Linux** with a riced **niri** setup (scrollable tiling ftw).
 - 🔍 I'm obsessed with answering *"why is my system doing that?"*, hence the whole `*why` family below.
 - 🤖 Lately: self-hosted bots, Matrix integrations and AI-assisted tooling.
 
